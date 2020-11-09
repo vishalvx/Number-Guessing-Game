@@ -1,0 +1,16 @@
+nav h3{
+    color: white;
+}
+
+small{
+    margin-right: 1105px;
+}
+
+#heading{
+    font-size: 85px;
+}
+
+#result,#history,#input{
+    max-width: 400px;
+    margin: 0 auto;
+}
